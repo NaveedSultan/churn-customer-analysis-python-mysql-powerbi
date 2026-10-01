@@ -159,18 +159,6 @@ Queries in `SQL/SQLQuery.sql` cover:
 - Give Startup customers better onboarding and flexible pricing, and ask why they leave
 - Review pricing and competitors, which together make up about 40% of churn reasons
 - Track churn rate (not just counts) by segment
-
----
-
-## Dashboard Preview
-
-| Page | Preview |
-|---|---|
-| Home | ![Home](Images/Summary.png) |
-| Customer Analysis | ![Customer Analysis](Images/Customer_Info.png) |
-| Sales Performance | ![Sales](Images/Sales.png) |
-| Churn Insights | ![Churn Insights](Images/Churn_Insights.png) |
-
 ---
 
 ## Author
